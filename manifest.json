@@ -5,7 +5,7 @@
   "custom_middleware": {
     "pre": [
       {
-        "name": "MyPreMiddleware"
+        "name": "SampleMiddleware"
       }
     ],
     "driver": "go"
