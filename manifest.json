@@ -1,0 +1,15 @@
+{
+  "file_list": [
+    "mw.so"
+  ],
+  "custom_middleware": {
+    "pre": [
+      {
+        "name": "MyPreMiddleware"
+      }
+    ],
+    "driver": "go"
+  },
+  "checksum": "",
+  "signature": ""
+}
